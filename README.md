@@ -29,8 +29,8 @@ I also introduced a traps with -5 penalty
 ### Args
 
 - -a | --actions  | Number of actions that agent can take (4, 8, 9)
-- -v | --verbose  | Number of training episodes
-- -e | --episodes | Verbose
+- -v | --verbose  | Verbose
+- -e | --episodes | Number of training episodes
 - -t | --traps    | Number of traps (0,1,2,3,4)
 
 
